@@ -1,2 +1,3 @@
-# nihal-demo
-This is nihal-demo
+# Nihal-demo
+This is Hihal-demo
+Author - Nihal Ahmed
